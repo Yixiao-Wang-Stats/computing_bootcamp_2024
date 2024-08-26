@@ -1,8 +1,12 @@
 # DSS Computing Bootcamp 2024
 
 a little change happens here.
+<<<<<<< HEAD
 
 
+=======
+So I think it is the final version.
+>>>>>>> dev
 This repository contains the computing bootcamp materials for incoming
 Ph.D. and M.S. students to the Department of Statistical Science at
 Duke University. These materials are adapted fromthose developed by Shawn Santo,
